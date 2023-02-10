@@ -17,10 +17,10 @@ python app.py
 
 ## Running Flask on Webserver
 The webserver is set up at (http://ec2-43-207-153-110.ap-northeast-1.compute.amazonaws.com:8080)
-![alt text](.\data\index.png)
+![alt text](./data/index.png)
 
 Upload any sound clip and click upload to send the post request. Example of result returned is shown below.
-![alt text](.\data\result.png)
+![alt text](./data/result.png)
 
 Alternatively, you can post to (http://ec2-43-207-153-110.ap-northeast-1.compute.amazonaws.com:8080/predict) using http client like postman to yield the result.
-![alt text](.\data\result_postman.png)
+![alt text](./data/result_postman.png)
